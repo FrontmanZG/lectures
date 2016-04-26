@@ -1,5 +1,29 @@
 # Lectures
 
+
+### Frontman Zagreb Meetup #7 (06.04.2016)
+
+--
+
+Gabrijel Mrgan - **Korištenje Susy frameworka**
+
+Objasnit ćemo vam na praktičnom primjeru osnovnog layouta kako koristiti Susy framework kao grid sistem, neke njegove najbitnije funkcionalnosti, te pokazati kako vam Susy može postati glavni alat za layouting (naspram bootstrapa).
+
+Presentation: [https://www.youtube.com/watch?v=Sw_u0TMRKO8](https://www.youtube.com/watch?v=Sw_u0TMRKO8)
+
+--
+
+Ivan Čurić - **Web u (minimalno) 60 fps-a**
+
+Kako natjerati stranice da se renderiraju glatko poput nativnih aplikacija? I to još na mobilnim uređajima?
+
+U ovom predavanju ćemo preći osnove toga kako browser uopće iscrtava stranicu,  najčešće uzroke trzanja na stranicama i kako te probleme izbjeći.
+
+Jer 59 fps-a nije dovoljno dobro
+
+Presentation: [https://www.youtube.com/watch?v=6kdcWd_gwr0](https://www.youtube.com/watch?v=6kdcWd_gwr0)
+
+
 ### Frontman Zagreb Meetup #6 (02.03.2016)
 
 --
