@@ -1,5 +1,23 @@
 # Lectures
 
+### Frontman Zagreb Meetup #8 (04.05.2016)
+
+--
+
+Igor Kovačić - **CSS naming conventions**
+
+Isproban pristup imenovanja CSS klasa u okruženju od 10+ frontendaša koji si međusobno uskaču na kôd.Kroz praktične primjere na stvarnim projektima predavanje će pomoći kako da jednostavnije osmislite nazive selektora, pišete razumljiviji kôd, u što većoj mjeri radite reuse CSS-a, izbjegnete klasične pogreške, a u konačnici postignete standardizaciju na razini vašeg front-end tima. (Predavanje na hrvatskom jeziku)
+
+Presentation: [PDF](https://github.com/FrontmanZG/lectures/presentations/08/igor-kovacic.pdf)
+
+--
+
+Darko Kukovec - **CSS modules**
+
+Did you ever give the same name to two CSS classes by accident and the whole web page broke? CSS Modules are a new approach that tries to solve this issue. The idea of CSS Modules is that every class is local unless we define it otherwise. (English language talk)
+
+Presentation: -
+
 
 ### Frontman Zagreb Meetup #7 (06.04.2016)
 
