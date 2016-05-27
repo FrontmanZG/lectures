@@ -8,7 +8,7 @@ Igor Kovačić - **CSS naming conventions**
 
 Isproban pristup imenovanja CSS klasa u okruženju od 10+ frontendaša koji si međusobno uskaču na kôd.Kroz praktične primjere na stvarnim projektima predavanje će pomoći kako da jednostavnije osmislite nazive selektora, pišete razumljiviji kôd, u što većoj mjeri radite reuse CSS-a, izbjegnete klasične pogreške, a u konačnici postignete standardizaciju na razini vašeg front-end tima. (Predavanje na hrvatskom jeziku)
 
-Presentation: [PDF](https://github.com/FrontmanZG/lectures/presentations/08/igor-kovacic.pdf)
+Presentation: [PDF](https://github.com/FrontmanZG/lectures/blob/master/presentations/08/igor-kovacic.pdf)
 
 --
 
